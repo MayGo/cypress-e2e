@@ -2,8 +2,8 @@
 
 ## Getting Started
 * Set up: `npm install`
-* Run: `cypress:open`
-* For CI: `cypress:run`
+* Run: `npm run cypress:open`
+* For CI: `npm run cypress:run`
 
 ##Cypress
 
