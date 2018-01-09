@@ -1,6 +1,4 @@
 {
-  "projectId": "4nqf8i",
-  "blacklistHosts": [
-    "*intercom.io"
-  ]
+    "projectId": "4nqf8i",
+    "blacklistHosts": ["*intercom.io"]
 }

@@ -1,11 +1,11 @@
 {
-  "dependencies": {},
-  "scripts": {
-    "cypress:open": "cypress open",
-    "cypress:run": "cypress run --record --key ac6d8ead-57d7-4294-b083-b3cd37836154"
-  },
-  "devDependencies": {
-    "blink-diff": "^1.0.13",
-    "cypress": "^1.4.1"
-  }
+    "dependencies": {},
+    "scripts": {
+        "cypress:open": "cypress open",
+        "cypress:run:record": "cypress run --record --key ac6d8ead-57d7-4294-b083-b3cd37836154",
+        "cypress:run": "cypress run"
+    },
+    "devDependencies": {
+        "cypress": "^1.4.1"
+    }
 }
